@@ -1,0 +1,41 @@
+#icons{
+    padding-left: 535px;
+    margin-top: -8px;
+}
+
+#carousal-container{
+    margin-top: -50px;
+}
+#title1{
+    flex: content;
+    justify-content: center;
+}
+#comment{
+    color: darkorange;
+    padding-left: 10px;
+}
+#image4{
+    width: 100%;
+}
+#about{
+    color: white;
+    
+}
+.block{
+    align-items: center;
+    background-color: black;
+    max-width: 300px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+#card4{
+    margin-top: 25px;
+}
+#image5{
+    width: 350px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#text4{
+    color: black;
+}
